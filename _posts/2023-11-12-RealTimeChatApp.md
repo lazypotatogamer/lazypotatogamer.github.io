@@ -189,6 +189,7 @@ Explanation:
 In short, the server is like a chat club's host, and the client is like someone attending the club. They communicate over the internet, and the code helps them chat and coordinate effectively.
 
 To run the python, type this to cmd.
+
 <img width="298" alt="server" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/127a6ea2-6a0f-454d-8267-fd82b5ca09b1">
 
 <img width="339" alt="client" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/e20e489d-c8f0-46cf-a594-01f1cb03029f">
