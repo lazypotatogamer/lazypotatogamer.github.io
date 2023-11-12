@@ -110,7 +110,7 @@ class GUI:
 
     def display_name_section(self):
         frame = tk.Frame()
-        label = Label(frame, text='Enter Your Name Here!', font=("arial", 13, "bold"))
+        label = Label(frame, text='Enter Your Name Here', font=("arial", 13, "bold"))
         label.pack(side='left', pady=20)
         self.name_widget = Entry(frame, width=60, font=("arial", 13))
         self.name_widget.pack(side='left', anchor='e', pady=15)
@@ -132,7 +132,7 @@ class GUI:
 
     def display_chat_entry_box(self):
         frame = tk.Frame()
-        label = Label(frame, text='Enter Your Message Here!', font=("arial", 12, "bold"))
+        label = Label(frame, text='Type Your Message Here', font=("arial", 12, "bold"))
         label.pack(side='top', anchor='w', padx=120)
         self.enter_text_widget = Text(frame, width=50, height=10, font=("arial", 12))
         self.enter_text_widget.pack(side='left', pady=10, padx=10)
@@ -195,10 +195,12 @@ To run the python, type this to cmd.
 <img width="339" alt="client" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/e20e489d-c8f0-46cf-a594-01f1cb03029f">
 
 when the program starts to run, it will show this:
-<img width="815" alt="output" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/e29f13a4-7235-4f3d-9b8e-951f5bf29383">
+<img width="815" alt="output2" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/d55f0080-51e2-4a52-9a4c-9afd380bcea6">
 
 you can now chat with other user/client in the chat room.
-<img width="815" alt="output1" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/a9789a56-a17f-4a59-9ea2-20690db1acc9">
+<img width="814" alt="output3" src="https://github.com/lazypotatogamer/lazypotatogamer.github.io/assets/91038494/6ada7241-fe44-4a28-a88f-b65b6dd5dad0">
+
+
 
 
 
